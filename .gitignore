@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # python virtual env
-regression-techniques/
+regression_env/
 
 data/
